@@ -12,10 +12,7 @@ N/A
 
 ## Usage
 
-I will use this study guide to hold notes about HTML, CSS, Javascript and Git. Each section will hold notes on those particular topics that I use in the future or hard to remember. So far most commands seem pretty intuitive, but keeping them on one record will become useful.
-
-
-![alt text](assets/images/screenshot.png)
+To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows), alternatively you can right click anywhere on the webpage to open a pop-up menu and select "Inspect". A console panel should open either below or to the side of the webpage in the browser.
 
 ## Credits
 
@@ -23,24 +20,4 @@ N/A
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-N/A
-
-## Features
-
-N/A
-
-## How to Contribute
-
-N/A
-
-## Tests
-
-N/A
+Please Refer to the LICENSE in the repository.
